@@ -1,15 +1,15 @@
 # rfscommunity-
-Forum pour une commauté d un jeu 
+**Forum pour une commauté d un jeu **
 Merci d apporter votre aide si vous êtes programmeur
 Caractéristiques :
 
-User
+*User*
 -crée topic 
 -modifier titre du topic ainsi que le topic
 -repondre au topic et modifier reponse
 -importer image et lien
 
-Admin 
+*Admin*
 -crée des catégorie 
 -Cree sous catégorie 
 -Bannir un user
@@ -22,7 +22,7 @@ Admin
 -repondre au topic et modifier reponse
 -importer image et lien
 
-Modérateur
+*Modérateur*
 -Bannir un user
 -Déplacer topic
 -Suprimmer un topic
