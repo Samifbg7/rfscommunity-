@@ -1,5 +1,5 @@
 # rfscommunity-
-**Forum pour une commauté d un jeu **
+**Forum pour une commauté d un jeu**
 Merci d apporter votre aide si vous êtes programmeur
 Caractéristiques :
 
